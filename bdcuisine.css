@@ -1,0 +1,100 @@
+body {
+    background-color: #fcf3ec;
+  }
+  header {
+    background-color: brown;
+  }
+  #nav-bar {
+    width:70%;
+    margin: auto;
+    background-color: #f3d1e0;
+  }
+  #Into-text{
+    text-align: center;
+    font-style: italic;
+  }
+  .Intro-para {
+    color: #000000;
+  }
+  #Intro {
+    margin: auto;
+    background-color: #f3d1e0;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+  }
+  #Intro{
+    background-image: url('pic/Pastel\ masalas.PNG');
+    background-size: cover;
+    background-position: center;
+    height: 300px; 
+    width: 500px; 
+    color: white; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
+    opacity:0.5;
+  }
+  h2{
+    margin: auto;
+    margin-bottom: 10px;
+    background-color:#f3d1e0;
+    text-align: center;
+    width: 95%;
+  }
+  #menu_holder{
+    margin: auto;
+    background-color:#f5e6c4;
+    width: 70%;
+  }
+  .main-section-content h2 {
+    background-color: darkkhaki;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  header,
+  nav,
+  footer {
+    border: 1px solid black;
+  }
+  header,
+  nav{
+    border-radius: 10px;
+  }
+  h1 {
+    color: rgb(70, 66, 66);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h2,
+  p {
+    color: #333333;
+  }
+  table,
+  th,
+  td {
+    border: 1px solid black;
+  }
+  ul {
+    list-style-type: none;
+  }
+  li a {
+    text-decoration: none;
+    color: #333333;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  li a:hover {
+    color: #c50b52;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  h3 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+  }
